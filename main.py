@@ -1,4 +1,4 @@
 while True:
-    print( input.light_level())
-    if input.light_level() >6:
+    print( input.sound_level())
+    if input.sound_level() >6:
         light.set_all(light.rgb(255, 255, 255))
